@@ -1,3 +1,3 @@
 # MobilePlatformVideo_TrafficScotlandApp
 
-Video for MPD Coursework.
+Video for Mobile Platform Development Coursework.
